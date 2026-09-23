@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3afed543a63028498bd72b1d",
+  "owner": "tpgkwnxj3",
+  "repo": "page-884db41ca065b91972044d84",
+  "title": "博联",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "884db41ca065b91972044d84",
+      "a": "博联",
+      "b": "2027官方最新地址导航",
+      "entity": "博联",
+      "brand": "博联",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e17fd912008fc9392d72b3b44c76475f519c7df02aafe7c747505b1ff15f5699",
+      "content": {
+        "primary_entity": "博联",
+        "keyword1": "博联",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，订阅配置步骤略有差异。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "先确认设备数量与月流量需求，再对比三档套餐的节点和在线限制。",
+          "AI_CLOSING_TITLE": "选对套餐再开始",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，分别适配 3 台、5 台和 20 台设备同时在线。月付价格从 ¥15 到 ¥85，年付可享优惠价，流量从每月 100GB 到 1000GB。旗舰版配备 IPLC 专线游戏加速优化和 7x24 优先工单支持，团队版支持企业定制路由与专属客户经理服务。按设备类型选择客户端，依据订阅信息完成配置即可使用。",
+          "AI_FEATURES_INTRO": "从套餐定位、设备数量和订阅周期三个角度整理，方便快速判断。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台设备以内、月流量 100GB 左右的个人用户，年付价 ¥150。",
+          "AI_FEATURE_TEXT_2": "旗舰版覆盖 5 台设备与 300GB 月流量，年付 ¥350，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备同时在线和 1000GB 月流量，年付 ¥850，含企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按用量选档位",
+          "AI_FEATURE_TITLE_2": "看设备在线数",
+          "AI_FEATURE_TITLE_3": "比较订阅周期",
+          "AI_GUIDE_INTRO": "先确定套餐与设备数量，再按客户端文档配置订阅信息。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "博联提供基础版、旗舰版和团队版三档海外加速方案，覆盖 3 至 20 台设备同时在线，月流量从 100GB 到 1000GB。旗舰版配备 IPLC 专线游戏加速与优先工单支持，团队版面向企业定制路由与专属服务。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备规模",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "年付方案价格更优",
+          "AI_PLANS_INTRO": "三档套餐在设备数量、月流量和节点类型上区分，可按实际需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备在线限制和节点说明，确认与自己的使用场景匹配。",
+          "AI_STEP_TEXT_3": "根据设备类型选择对应客户端，参考客户端文档导入订阅并完成配置。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配要求",
+          "AI_STEP_TITLE_3": "按客户端配置",
+          "AI_VISUAL_TITLE": "博联海外加速器",
+          "AI_FAQ_ANSWER_1": "按设备数量、月流量和线路需求选择。轻度使用选基础版，多设备与流媒体选旗舰版，团队多设备选团队版。",
+          "AI_FAQ_ANSWER_2": "支持同一账号在多台设备同时在线，基础版 3 台，旗舰版 5 台，团队版 20 台，超出后可在套餐页面升级。",
+          "AI_FAQ_ANSWER_3": "支持月付与年付。年付价格更优惠，例如基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_4": "在客户端中导入订阅链接即可，具体步骤参考所选客户端的配置文档，按提示粘贴订阅地址并更新节点。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线与游戏加速优化，团队版提供 VIP 高带宽节点和企业定制路由，高负载场景优先选这两档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的套餐？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量有限制吗？",
+          "AI_FAQ_QUESTION_3": "支持哪些付费周期？",
+          "AI_FAQ_QUESTION_4": "订阅如何导入到客户端？",
+          "AI_FAQ_QUESTION_5": "哪些套餐适合流媒体或游戏？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xinmaogangtie.cn",
+    "host": "xinmaogangtie.cn"
+  },
+  "file_hashes": {
+    "index.html": "f176c587dcab0bf51a7cf98fb8ce0dab16fe0f73ae5c88f9ba6cbb679647551b",
+    "sitemap.xml": "62942213347ad32db0c2b597996a97ecb222b5d5c19e6156652e6024577b46cb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "76369dc0455a76b8a4a2f70f832658648ff91d5d64a18ca865272775dfdfa987",
+    "robots.txt": "4e36e7ae0b6acb0806d9cab9d4e70444410681b2150dfc57519471aa8a0d0da2",
+    "84143eddd8a33ae9997bb88bd01fa092.txt": "72109fde374e39c81a3a28132d5b24259c9ad0302687591c326115c48969e33a"
+  },
+  "revision": "59f113204c646984a46987f6dd71416989fdce17d24d261616d714dece6460dd"
+}
